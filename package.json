@@ -1,0 +1,29 @@
+{
+  "name": "hw18-workout-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeders/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdassign/HW18-Workout-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdassign/HW18-Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/kdassign/HW18-Workout-Tracker#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  }
+}
