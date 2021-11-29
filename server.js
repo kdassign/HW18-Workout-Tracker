@@ -12,7 +12,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/hw18", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/Hw18", {
   useNewUrlParser: true,
   useFindAndModify: false
 });
