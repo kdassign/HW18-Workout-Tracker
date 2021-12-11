@@ -5,8 +5,8 @@
 A front-end workout tracker created with MONGO DB.
 
 ## Screenshot 
-![](https://i.ibb.co/j314KWp/weatherdashboardscreen.png)
-![](https://i.ibb.co/WKqHJ0V/fresno.png)
+![](https://i.ibb.co/LxGmWcx/wrktrkr1.png)
+![](https://i.ibb.co/dPrQ3xk/wrktrkr2.png)
 
 ## How to Use
 In your terminal you will...
